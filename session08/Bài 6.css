@@ -1,0 +1,18 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-container {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.blue-container {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}

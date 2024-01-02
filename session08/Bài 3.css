@@ -1,0 +1,47 @@
+.body {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.post-container {
+    width: 200px;
+    height: 130px;
+    background-color: rgb(132, 221, 231);
+}
+
+.post-container:hover {
+    background-color: rgb(9, 105, 189);
+}
+
+.container {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+
+
+.container1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(230, 191, 49, 0.872);
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 40px;
+    position: relative;
+    top: 15px;
+    left: 30px;
+}
+
+.container2 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(222, 8, 8);
+    border-radius: 50%;
+    position: relative;
+    top: 15px;
+    left: 50px; 
+}
